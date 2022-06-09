@@ -1,4 +1,6 @@
-# TradePlatform
+# Trade Platform
+
+This platform mimics the platform that one can utilize when buying or selling crypto/stocks from a marketplace.
 
 Currently still in progress of completing the following orders,
 Types of order can be found in binance
@@ -6,7 +8,9 @@ Types of order can be found in binance
 Input
 
 Limit Order -> [SUB][LO][S][OrderID][Quantity][Price]
+
 Market Order -> [SUB][MO][S][OrderID][Quantity]
+
 Cancel Order -> [CXL][OrderID]
 
 
